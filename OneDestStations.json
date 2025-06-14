@@ -1144,7 +1144,7 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/kamakura.png"
         },
         {
-            "name": "alx",
+            "name": "ALX",
             "x": -2459,
             "z": 6286,
             "dest": "/dest ! -,+ deluvia east alx",
@@ -1546,6 +1546,18 @@
             "color": "#fcd20e",
             "y": 0,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina.png"
+        },
+        {
+            "name": "SanRafael",
+            "x": -8190,
+            "z": 1466,
+            "dest": "/dest ! -,+ karydia sanrafael",
+            "level": 3,
+            "zoom": 4,
+            "id": "civmap:onedest/station/sanrafael",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/sanrafael.png"
         }
     ],
     "presentations": [
